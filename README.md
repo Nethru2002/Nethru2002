@@ -1,53 +1,50 @@
 ---
 
-## 🌌 Nethru Randev Wickramasekara
+<div align="center">
 
-### *Full Stack Engineer | Game Developer | Creative Technologist*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Nethru%20Randev%20Wickramasekara&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Game+Developer+with+Unity+%26+Unreal;BSc+(Hons)+Computing+%7C+NIBM;Turning+Complex+Problems+into+Elegant+Solutions" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Software+Engineer;Game+Developer+%7C+Unity+%26+Unreal;BSc+(Hons)+Computing+%7C+NIBM;Building+Scalable+Systems+%26+Immersive+Worlds" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nethru2002&style=for-the-badge&color=blueviolet"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=nethru2002&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-🎓 **BSc (Hons) Computing – Second Year** at **NIBM, Sri Lanka**
-🧠 Strong background in **Full Stack Web Engineering, Game Development, System Design & UI/UX**
-🎮 Founder mindset — merging *gaming logic* with *real-world business systems*
-💡 Always learning emerging tech like **Cloud, DevOps, AI integrations & scalable architectures**
-
----
-
-## 🧩 What I Build
-
-| Category              | Projects                                                            |
-| --------------------- | ------------------------------------------------------------------- |
-| 🌐 Enterprise Systems | Employee Incentive Systems, Approval Workflows, Full-Stack Web Apps |
-| 🎮 Game Development   | Unity & Unreal based Story Games                                    |
-| 📱 Mobile Apps        | Flutter & Android Native Apps                                       |
-| 🤖 IoT Systems        | Arduino Smart Automation Projects                                   |
-| 🎨 UI/UX              | High-fidelity Figma designs                                         |
+🎓 **BSc (Hons) Computing – Second Year** @ **NIBM, Sri Lanka**
+💼 Freelance Software Engineer | Game Developer
+🎮 Blending **enterprise-grade systems** with **next-gen game mechanics**
+⚙ Obsessed with performance, clean architecture & immersive UI experiences
 
 ---
 
-## 🛠 Ultimate Tech Arsenal
+## 🧩 What I Engineer
 
-### 🔹 Programming Languages
+| Domain                    | Expertise                                                         |
+| ------------------------- | ----------------------------------------------------------------- |
+| 🌐 Enterprise Web Systems | Employee Incentive Systems, Approval Engines, Workflow Automation |
+| 🎮 Game Development       | Story-Driven Games using Unity & Unreal                           |
+| 📱 Mobile Apps            | Flutter & Native Android Apps                                     |
+| ☁ Cloud & DevOps          | AWS, Linux Servers, CI/CD Pipelines                               |
+| 🤖 IoT & Robotics         | Arduino Smart Automation Systems                                  |
+| 🎨 UI/UX                  | High-Fidelity Prototypes using Figma                              |
+
+---
+
+## 🛠 Tech Ecosystem
+
+### 🔹 Languages
 
 `JavaScript` `Java` `Python` `C` `C++` `C#` `PHP` `Kotlin` `SQL`
 
 ### 🔹 Frontend
 
-`React` `HTML5` `CSS3` `Bootstrap` `Flutter Web`
+`React` `HTML5` `CSS3` `Bootstrap` `Tailwind` `Flutter Web`
 
 ### 🔹 Backend
 
@@ -57,59 +54,60 @@
 
 `MySQL` `MongoDB` `PostgreSQL` `Oracle` `SQL Server`
 
-### 🔹 Game Development
+### 🔹 Game Engines
 
-`Unity Engine` `Unreal Engine` `C# Game Scripting`
+`Unity` `Unreal Engine` `C# Game Architecture`
 
-### 🔹 DevOps & Cloud
+### 🔹 Cloud & DevOps
 
-`AWS` `Linux` `GitHub Actions` `Docker (Learning)` `Nginx (Learning)`
+`AWS` `Linux` `GitHub Actions` `Docker` `Nginx`
 
-### 🔹 Tools & Platforms
+### 🔹 Toolchain
 
 `Figma` `Postman` `Android Studio` `VS Code` `Arduino IDE`
 
 ---
 
-## 🔥 Currently Working On
+## 🔥 Featured Project
 
 🚧 **Ceylon Creations – Enterprise Web Platform**
 🔗 [https://github.com/NIBM-GALLE/GAHDSE241F-ceylone-creations](https://github.com/NIBM-GALLE/GAHDSE241F-ceylone-creations)
-⚙ Built with **React + Node + SQL Server + Advanced Approval Flow Logic**
+
+⚙ **Stack:** React · Node · SQL Server · Role-Based Access · Approval Workflow Engine
 
 ---
 
-## 📊 GitHub Performance
+## 📈 GitHub Intelligence
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nethru2002&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethru2002&theme=radical"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethru2002&layout=compact&theme=radical"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nethru2002&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethru2002&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nethru2002&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethru2002&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nethru2002&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/nethru-wickramasekara"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://dev.to/nethrurandev"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://kaggle.com/nethruwickramasekara"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
-  <a href="https://instagram.com/nethru_randev"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://youtube.com/c/wickram x"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/nethru-wickramasekara"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://dev.to/nethrurandev"><img src="https://skillicons.dev/icons?i=devto" /></a> <a href="https://kaggle.com/nethruwickramasekara"><img src="https://skillicons.dev/icons?i=kaggle" /></a> <a href="https://instagram.com/nethru_randev"><img src="https://skillicons.dev/icons?i=instagram" /></a> <a href="https://youtube.com/c/wickram x"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+
+</div>
 
 📧 **Email:** [wickramasekaranethru@gmail.com](mailto:wickramasekaranethru@gmail.com)
 
 ---
 
-## ⚡ Life Philosophy
+<div align="center">
 
-> *“Build systems that scale. Create games that inspire. Code like your future depends on it.”* 🎯
+### ⚡ *“Code with precision. Build with vision. Play without limits.”* 🎮
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=160&section=footer"/>
+
+</div>
