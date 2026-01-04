@@ -1,75 +1,106 @@
 ---
 
-## 🚀 Nethru Randev Wickramasekara
+## 🌌 Nethru Randev Wickramasekara
+
+### *Full Stack Engineer | Game Developer | Creative Technologist*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Game+Developer+%26+Creative+Builder;BSc+(Hons)+Computing+%7C+NIBM;Turning+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Game+Developer+with+Unity+%26+Unreal;BSc+(Hons)+Computing+%7C+NIBM;Turning+Complex+Problems+into+Elegant+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nethru2002&label=Profile+Views&color=0e75b6&style=flat-square" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nethru2002&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-### 👋 About Me
+## 🚀 About Me
 
-🎯 **Full Stack Developer & Game Developer**
-🎓 **BSc (Hons) Computing – Second Year | NIBM**
-🧠 Passionate about building scalable web systems, immersive games, and clean UI experiences.
-☕ Fuelled by coffee & curiosity — always learning, always building.
-
----
-
-### 🛠 Tech Stack
-
-**Languages**
-
-```
-JavaScript | Java | Python | C | C++ | C# | PHP | Kotlin
-```
-
-**Frameworks & Tools**
-
-```
-React | Node.js | Express | .NET | Flutter | Unity | Unreal Engine
-```
-
-**Databases**
-
-```
-MySQL | MongoDB | SQL Server | Oracle
-```
-
-**Design & Dev Tools**
-
-```
-Figma | Postman | Git | Linux | Android Studio | AWS | Arduino
-```
+🎓 **BSc (Hons) Computing – Second Year** at **NIBM, Sri Lanka**
+🧠 Strong background in **Full Stack Web Engineering, Game Development, System Design & UI/UX**
+🎮 Founder mindset — merging *gaming logic* with *real-world business systems*
+💡 Always learning emerging tech like **Cloud, DevOps, AI integrations & scalable architectures**
 
 ---
 
-### 🚧 Currently Working On
+## 🧩 What I Build
 
-🔭 **Ceylon Creations** – Full Stack Enterprise Web System
+| Category              | Projects                                                            |
+| --------------------- | ------------------------------------------------------------------- |
+| 🌐 Enterprise Systems | Employee Incentive Systems, Approval Workflows, Full-Stack Web Apps |
+| 🎮 Game Development   | Unity & Unreal based Story Games                                    |
+| 📱 Mobile Apps        | Flutter & Android Native Apps                                       |
+| 🤖 IoT Systems        | Arduino Smart Automation Projects                                   |
+| 🎨 UI/UX              | High-fidelity Figma designs                                         |
+
+---
+
+## 🛠 Ultimate Tech Arsenal
+
+### 🔹 Programming Languages
+
+`JavaScript` `Java` `Python` `C` `C++` `C#` `PHP` `Kotlin` `SQL`
+
+### 🔹 Frontend
+
+`React` `HTML5` `CSS3` `Bootstrap` `Flutter Web`
+
+### 🔹 Backend
+
+`Node.js` `Express.js` `.NET Core` `REST APIs`
+
+### 🔹 Databases
+
+`MySQL` `MongoDB` `PostgreSQL` `Oracle` `SQL Server`
+
+### 🔹 Game Development
+
+`Unity Engine` `Unreal Engine` `C# Game Scripting`
+
+### 🔹 DevOps & Cloud
+
+`AWS` `Linux` `GitHub Actions` `Docker (Learning)` `Nginx (Learning)`
+
+### 🔹 Tools & Platforms
+
+`Figma` `Postman` `Android Studio` `VS Code` `Arduino IDE`
+
+---
+
+## 🔥 Currently Working On
+
+🚧 **Ceylon Creations – Enterprise Web Platform**
 🔗 [https://github.com/NIBM-GALLE/GAHDSE241F-ceylone-creations](https://github.com/NIBM-GALLE/GAHDSE241F-ceylone-creations)
+⚙ Built with **React + Node + SQL Server + Advanced Approval Flow Logic**
 
 ---
 
-### 🌱 Learning & Growth
+## 📊 GitHub Performance
 
-📚 Advanced Web Architecture
-🎮 Professional Game Development with Unity & Unreal
-☁ Cloud & DevOps Fundamentals
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nethru2002&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethru2002&theme=radical"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethru2002&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nethru2002&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/nethru-wickramasekara"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://dev.to/nethrurandev"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://stackoverflow.com/users/21430765"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="https://kaggle.com/nethruwickramasekara"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
   <a href="https://instagram.com/nethru_randev"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://youtube.com/c/wickram x"><img src="https://skillicons.dev/icons?i=youtube" /></a>
@@ -79,25 +110,6 @@ Figma | Postman | Git | Linux | Android Studio | AWS | Arduino
 
 ---
 
-### 🏆 GitHub Highlights
+## ⚡ Life Philosophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nethru2002&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nethru2002&show_icons=true&theme=algolia"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethru2002&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethru2002&layout=compact&theme=algolia"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> Writing production-ready code by day, grinding story mode & multiplayer by night 🎮🌊
-
----
+> *“Build systems that scale. Create games that inspire. Code like your future depends on it.”* 🎯
