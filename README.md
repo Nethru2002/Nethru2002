@@ -1,44 +1,103 @@
-<h1 align="center">Hi 👋, I'm Nethru Randev Wickramasekara</h1>
-<h3 align="center">🚀 Developer with a passion for clean code, creative solutions, and constant learning. 🌟 Turning coffee ☕ and curiosity into innovative projects. 💻 Always exploring, always building.</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethru2002&label=Profile%20views&color=0e75b6&style=flat" alt="nethru2002" /> </p>
+## 🚀 Nethru Randev Wickramasekara
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethru2002" alt="nethru2002" /></a> </p>
-
-- 🔭 I’m currently working on [Ceylon Creations](https://github.com/NIBM-GALLE/GAHDSE241F-ceylone-creations)
-
-- 🌱 I’m currently learning **BSc (Hons) Computing – Second Year [Higher Diploma in Software Engineering], National Institute of Business Management (NIBM)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nethru2002](https://github.com/Nethru2002)
-
-- 💬 Ask me about **Full Stack Web Development**
-
-- 📫 How to reach me **wickramasekaranethru@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Nethru2002](https://github.com/Nethru2002)
-
-- ⚡ Fun fact **🏄‍♂️ Writing code by day, chasing waves by night!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nethrurandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nethrurandev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nethru-wickramasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethru-wickramasekara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21430765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21430765" height="30" width="40" /></a>
-<a href="https://kaggle.com/nethruwickramasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nethruwickramasekara" height="30" width="40" /></a>
-<a href="https://fb.com/nethru.wickramasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nethru.wickramasekara" height="30" width="40" /></a>
-<a href="https://instagram.com/nethru_randev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nethru_randev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wickram x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wickram x" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Game+Developer+%26+Creative+Builder;BSc+(Hons)+Computing+%7C+NIBM;Turning+Ideas+into+Reality" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nethru2002&label=Profile+Views&color=0e75b6&style=flat-square" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethru2002&show_icons=true&locale=en&layout=compact" alt="nethru2002" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethru2002&show_icons=true&locale=en" alt="nethru2002" /></p>
+### 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethru2002&" alt="nethru2002" /></p>
+🎯 **Full Stack Developer & Game Developer**
+🎓 **BSc (Hons) Computing – Second Year | NIBM**
+🧠 Passionate about building scalable web systems, immersive games, and clean UI experiences.
+☕ Fuelled by coffee & curiosity — always learning, always building.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+
+```
+JavaScript | Java | Python | C | C++ | C# | PHP | Kotlin
+```
+
+**Frameworks & Tools**
+
+```
+React | Node.js | Express | .NET | Flutter | Unity | Unreal Engine
+```
+
+**Databases**
+
+```
+MySQL | MongoDB | SQL Server | Oracle
+```
+
+**Design & Dev Tools**
+
+```
+Figma | Postman | Git | Linux | Android Studio | AWS | Arduino
+```
+
+---
+
+### 🚧 Currently Working On
+
+🔭 **Ceylon Creations** – Full Stack Enterprise Web System
+🔗 [https://github.com/NIBM-GALLE/GAHDSE241F-ceylone-creations](https://github.com/NIBM-GALLE/GAHDSE241F-ceylone-creations)
+
+---
+
+### 🌱 Learning & Growth
+
+📚 Advanced Web Architecture
+🎮 Professional Game Development with Unity & Unreal
+☁ Cloud & DevOps Fundamentals
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nethru-wickramasekara"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://dev.to/nethrurandev"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://stackoverflow.com/users/21430765"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://kaggle.com/nethruwickramasekara"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
+  <a href="https://instagram.com/nethru_randev"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://youtube.com/c/wickram x"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+</p>
+
+📧 **Email:** [wickramasekaranethru@gmail.com](mailto:wickramasekaranethru@gmail.com)
+
+---
+
+### 🏆 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nethru2002&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nethru2002&show_icons=true&theme=algolia"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethru2002&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethru2002&layout=compact&theme=algolia"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> Writing production-ready code by day, grinding story mode & multiplayer by night 🎮🌊
+
+---
