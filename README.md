@@ -91,10 +91,6 @@ Current Focus:
 
 # 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethru2002&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethru2002&theme=github-dark-blue&hide_border=true&border_radius=12" />
